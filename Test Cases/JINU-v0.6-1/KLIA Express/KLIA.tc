@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KLIA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5119d0e4-d4e3-41f5-b468-b5f02d7f7efd</testCaseGuid>
+   <variable>
+      <defaultValue>'RM'</defaultValue>
+      <description></description>
+      <id>5676a841-e0ce-400c-98fa-8671fc1966bb</id>
+      <masked>false</masked>
+      <name>A</name>
+   </variable>
+</TestCaseEntity>
